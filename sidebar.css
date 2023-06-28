@@ -1,0 +1,14 @@
+.sidebar {
+  display: flex;
+  background-color: #d8d3d3;
+  width: 250px;
+  padding: 20px;
+}
+
+.sidebar-container {
+  display: flex;
+  flex-direction: column;
+}
+
+
+
