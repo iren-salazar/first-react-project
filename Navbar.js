@@ -3,8 +3,6 @@ import "./navbar.css";
 import "./header.css";
 import './sidebar.css';
 
-
-
 function Navbar() {
   return (
     <>

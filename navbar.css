@@ -8,15 +8,11 @@ nav {
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.06);
 }
 
-
 #navbar {
   display: flex;
   align-items: center;
   justify-content: center;
-
-  
 }
-
 
 #navbar li {
   list-style: none;
@@ -30,13 +26,11 @@ nav {
   font-weight: 600;
   color: rgb(0, 0, 0);
   transition: 0.3s ease-in-out;
-  
 }
 
 #navbar li a:hover,
 #navbar li a.active {
   color: rgb(255, 255, 255);
-  
 }
 
 #navbar li a:hover::after,
